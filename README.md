@@ -6,7 +6,7 @@ Are you looking for an IGNOU MCom Project guide? This repository provides helpfu
 
 Whether you need help selecting an MCom project topic, preparing a synopsis, writing research objectives, or understanding research methodology, this guide will help you understand the essential stages of project preparation.
 
-What Is an IGNOU MCom Project?
+<h3>What Is an IGNOU MCom Project?</h3>
 
 An IGNOU MCom Project is an academic research assignment undertaken by students enrolled in the Master of Commerce programme. It allows students to study a relevant issue in accounting, finance, banking, taxation, marketing, business management, or another area of commerce.
 
@@ -14,7 +14,7 @@ A well planned project generally identifies a research problem, establishes clea
 
 Students should always consult the latest official IGNOU programme guidelines to confirm the applicable project requirements.
 
-IGNOU MCom Project Topics
+<h3>IGNOU MCom Project Topics/h3>
 
 Selecting a relevant research topic is an important step in preparing an IGNOU MCom Project. The topic should be manageable, clearly defined, and supported by accessible data.
 
@@ -46,7 +46,7 @@ Analysis of Profitability and Liquidity of Selected Companies
 
 Choose a topic according to your interests, available information, research objectives, and the requirements of your programme.
 
-IGNOU MCom Project Synopsis
+<h3>IGNOU MCom Project Synopsis/h3>
 
 A project synopsis is a preliminary research proposal that explains what you intend to study and how you plan to conduct the research.
 
@@ -80,7 +80,7 @@ References
 
 The synopsis should be prepared in accordance with the current instructions applicable to the student's programme.
 
-IGNOU MCom Project Report Format
+<h3>IGNOU MCom Project Report Format/h3>
 
 The final project report presents the completed research study. Its structure depends on the prescribed guidelines and the nature of the research.
 
