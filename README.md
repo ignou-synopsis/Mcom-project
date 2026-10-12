@@ -6,7 +6,7 @@ Are you looking for an IGNOU MCom Project guide? This repository provides helpfu
 
 Whether you need help selecting an MCom project topic, preparing a synopsis, writing research objectives, or understanding research methodology, this guide will help you understand the essential stages of project preparation.
 
-<h3>What Is an IGNOU MCom Project?</h3>
+What Is an IGNOU MCom Project?
 
 An IGNOU MCom Project is an academic research assignment undertaken by students enrolled in the Master of Commerce programme. It allows students to study a relevant issue in accounting, finance, banking, taxation, marketing, business management, or another area of commerce.
 
@@ -14,7 +14,7 @@ A well planned project generally identifies a research problem, establishes clea
 
 Students should always consult the latest official IGNOU programme guidelines to confirm the applicable project requirements.
 
-<h3>IGNOU MCom Project Topics</h3>
+IGNOU MCom Project Topics
 
 Selecting a relevant research topic is an important step in preparing an IGNOU MCom Project. The topic should be manageable, clearly defined, and supported by accessible data.
 
@@ -46,7 +46,7 @@ Analysis of Profitability and Liquidity of Selected Companies
 
 Choose a topic according to your interests, available information, research objectives, and the requirements of your programme.
 
-<h3>IGNOU MCom Project Synopsis/h3>
+IGNOU MCom Project Synopsis
 
 A project synopsis is a preliminary research proposal that explains what you intend to study and how you plan to conduct the research.
 
@@ -80,7 +80,7 @@ References
 
 The synopsis should be prepared in accordance with the current instructions applicable to the student's programme.
 
-<h3>IGNOU MCom Project Report Format/h3>
+IGNOU MCom Project Report Format
 
 The final project report presents the completed research study. Its structure depends on the prescribed guidelines and the nature of the research.
 
@@ -193,7 +193,3 @@ About This Repository
 This repository is intended to provide educational guidance for students preparing an IGNOU MCom Project. It can be expanded with additional topic lists, synopsis guidance, research methodology resources, and project report preparation tips.
 
 This is an independent educational resource and is not affiliated with or endorsed by Indira Gandhi National Open University.
-
-Primary keyword: IGNOU MCom Project
-
-Related keywords: IGNOU MCom Project Topics, IGNOU MCom Synopsis, IGNOU MCom Project Report, MCom Research Topics, IGNOU Project Format, MCom Research Methodology.
