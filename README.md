@@ -14,7 +14,7 @@ A well planned project generally identifies a research problem, establishes clea
 
 Students should always consult the latest official IGNOU programme guidelines to confirm the applicable project requirements.
 
-<h3>IGNOU MCom Project Topics/h3>
+<h3>IGNOU MCom Project Topics</h3>
 
 Selecting a relevant research topic is an important step in preparing an IGNOU MCom Project. The topic should be manageable, clearly defined, and supported by accessible data.
 
